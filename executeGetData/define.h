@@ -44,9 +44,9 @@ const double DT_SLOW = 0.10f;      // delta t sampling interval for slow/trouble
 // hostname
 #define HOST_NAME ""; // set devide name.
 // device ID
-const int device_id = ; // set device id.
+const int device_id = 33; // set device id.
 
-#define BASE_DIR "/home/pi/csn_raspi"
+#define BASE_DIR "/home/kosei/git/csn_raspi"
 #define TRIG_DIR "/earthquakes"
 #define DATA_DIR "/data"
 #define FILE_EXTENSION ".csv"
